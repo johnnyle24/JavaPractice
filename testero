@@ -1,0 +1,25 @@
+digraph Heap {
+	node [shape=record]
+
+	node0 [label = "<f0> |<f1> 1|<f2> "]
+	node0:f0 -> node1:f1
+	node0:f2 -> node2:f1
+	node1 [label = "<f0> |<f1> 2|<f2> "]
+	node1:f0 -> node3:f1
+	node1:f2 -> node4:f1
+	node2 [label = "<f0> |<f1> 5|<f2> "]
+	node2:f0 -> node5:f1
+	node2:f2 -> node6:f1
+	node3 [label = "<f0> |<f1> 7|<f2> "]
+	node3:f0 -> node7:f1
+	node3:f2 -> node8:f1
+	node4 [label = "<f0> |<f1> 13|<f2> "]
+	node4:f0 -> node9:f1
+	node4:f2 -> node10:f1
+	node5 [label = "<f0> |<f1> 8|<f2> "]
+	node6 [label = "<f0> |<f1> 20|<f2> "]
+	node7 [label = "<f0> |<f1> 14|<f2> "]
+	node8 [label = "<f0> |<f1> 10|<f2> "]
+	node9 [label = "<f0> |<f1> 30|<f2> "]
+	node10 [label = "<f0> |<f1> 40|<f2> "]
+}

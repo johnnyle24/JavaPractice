@@ -1,0 +1,17 @@
+When you are satisfied that your program is correct, write a brief analysis document (.pdf format only). The analysis document is 20% of your Assignment 2 grade. Ensure that your analysis document addresses the following.
+
+1. Who is your programming partner? Which of you submitted the source code of your program? Make sure to state your partner's name is the same way the name is given in Canvas.
+
+2. Which pair programming role did you like better, driver or navigator? Why?
+
+3. Evaluate your programming partner. Do you plan to work with this person again?
+
+4. Java's built-in classes Comparable and Comparator are both interfaces for doing comparisons among objects. What is the difference in the two interfaces? Give a situation when it is best to use each. Is it possible to change the extra features in InventoryGeneric such that the Comparable interface is used instead of Comparator? Why or why not?
+
+5. Comment about the efficiency of your programming time. Did you utilize the time spent on this assignment effectively? How might it be improved?
+
+6. How many hours did you spend on this assignment?
+
+Programming partners are encouraged to collaborate on the answers to these questions. However, each partner must write and submit his/her own solutions.
+
+Upload your document (.pdf only!) to the Assignment 2 page by 11:59pm on January 30.
